@@ -1,1 +1,1 @@
-# spam mail prediction
+# Spam mail prediction
