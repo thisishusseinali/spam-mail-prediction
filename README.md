@@ -7,5 +7,3 @@ Art and entertainment
 Spam (gaming), the repetition of an in-game action
 "Spam" (Monty Python), a comedy sketch
 "Spam", a song on the album It Means Everything (1997), by Save Ferris
-"Spam", a song by "Weird Al" Yankovic on the album UHF – Original Motion Picture Soundtrack and Other Stuff
-[
