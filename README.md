@@ -1,6 +1,6 @@
 # Spam Mail Prediction
 
-Spam may refer to:
+
 
 Spam (food), a canned pork meat product
 Spamming, unsolicited or undesired electronic messages
