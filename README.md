@@ -18,5 +18,4 @@ SPAM, a candidate phylum of bacteria
 See also
 All pages with titles containing Spam
 Disambiguation icon
-This disambiguation page lists articles associated with the title Spam.
 
