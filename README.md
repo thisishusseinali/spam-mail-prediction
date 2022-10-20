@@ -6,4 +6,3 @@ Messaging spam, spam targeting users of instant messaging (IM) services, SMS or 
 Art and entertainment
 Spam (gaming), the repetition of an in-game action
 "Spam" (Monty Python), a comedy sketch
-"Spam", a song on the album It Means Everything (1997), by Save Ferris
