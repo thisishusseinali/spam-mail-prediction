@@ -1,5 +1,5 @@
 # Spam Mail Prediction
-From Wikipedia, the free encyclopedia
+
 Jump to navigationJump to search
 For spam on Wikipedia, see Wikipedia:Spam and Wikipedia:WikiProject Spam
 
