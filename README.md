@@ -13,6 +13,4 @@ Other uses
 Smooth-particle applied mechanics, the use of smoothed-particle hydrodynamics computation to study impact fractures in solids
 SPAM, a candidate phylum of bacteria
 See also
-All pages with titles containing Spam
-Disambiguation icon
 
