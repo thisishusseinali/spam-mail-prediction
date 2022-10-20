@@ -8,7 +8,4 @@ Spam (gaming), the repetition of an in-game action
 "Spam" (Monty Python), a comedy sketch
 "Spam", a song on the album It Means Everything (1997), by Save Ferris
 "Spam", a song by "Weird Al" Yankovic on the album UHF – Original Motion Picture Soundtrack and Other Stuff
-Spam Museum, a museum in Austin, Minnesota, US dedicated to the canned pork meat product
-Other uses
-Smooth-particle applied mechanics, the use of smoothed-particle hydrodynamics computation to study impact fractures in solids
-
+[
