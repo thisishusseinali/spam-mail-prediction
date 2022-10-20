@@ -1,6 +1,6 @@
 # Spam Mail Prediction
 
-Jump to navigationJump to search
+
 For spam on Wikipedia, see Wikipedia:Spam and Wikipedia:WikiProject Spam
 
 Look up SPAM, Spam, spam, or spammy in Wiktionary, the free dictionary.
