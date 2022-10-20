@@ -1,8 +1,4 @@
 # Spam Mail Prediction
-
-
-For spam on Wikipedia, see Wikipedia:Spam and Wikipedia:WikiProject Spam
-
 Look up SPAM, Spam, spam, or spammy in Wiktionary, the free dictionary.
 Spam may refer to:
 
