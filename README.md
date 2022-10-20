@@ -19,4 +19,4 @@ See also
 All pages with titles containing Spam
 Disambiguation icon
 This disambiguation page lists articles associated with the title Spam.
-If an internal link led you here, you may wish to change the link to point directly to the intended article.
+
