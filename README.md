@@ -1,5 +1,5 @@
 # Spam Mail Prediction
-Look up SPAM, Spam, spam, or spammy in Wiktionary, the free dictionary.
+
 Spam may refer to:
 
 Spam (food), a canned pork meat product
